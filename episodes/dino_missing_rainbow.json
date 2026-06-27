@@ -1,0 +1,18 @@
+{
+  "title": "Dino and the Missing Rainbow",
+  "runtime_minutes": 10,
+  "format": "16:9",
+  "scenes": [
+    {"id": 1, "name": "Where Did the Colors Go", "duration": 35},
+    {"id": 2, "name": "The Five Missing Stars", "duration": 60},
+    {"id": 3, "name": "Red Star", "duration": 60},
+    {"id": 4, "name": "Blue Star", "duration": 60},
+    {"id": 5, "name": "Yellow Star", "duration": 60},
+    {"id": 6, "name": "Green Star", "duration": 60},
+    {"id": 7, "name": "Purple Star", "duration": 70},
+    {"id": 8, "name": "Race to Rainbow Hill", "duration": 35},
+    {"id": 9, "name": "Wind on Rainbow Hill", "duration": 75},
+    {"id": 10, "name": "The Rainbow Returns", "duration": 55},
+    {"id": 11, "name": "Closing Teaser", "duration": 30}
+  ]
+}
